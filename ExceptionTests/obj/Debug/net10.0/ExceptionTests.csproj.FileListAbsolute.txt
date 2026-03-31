@@ -1,0 +1,6 @@
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\bin\Debug\net10.0\CoverletSourceRootsMapping
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\obj\Debug\net10.0\ExceptionTests.csproj.AssemblyReference.cache
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\obj\Debug\net10.0\ExceptionTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\obj\Debug\net10.0\ExceptionTests.AssemblyInfoInputs.cache
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\obj\Debug\net10.0\ExceptionTests.AssemblyInfo.cs
+C:\dev\2026\EPSI\epsi2026\ExceptionTests\obj\Debug\net10.0\ExceptionTests.csproj.CoreCompileInputs.cache
